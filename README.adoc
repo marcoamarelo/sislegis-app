@@ -1,5 +1,7 @@
 = Aplicação SISLEGIS
 
+image:https://badges.gitter.im/Join%20Chat.svg[link="https://gitter.im/marcoamarelo/sislegis-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge"]
+
 == Tecnologias
 * JBoss Forge
 * AngularJS
